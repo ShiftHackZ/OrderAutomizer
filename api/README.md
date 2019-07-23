@@ -1,6 +1,8 @@
 # Order Automizer
 ###### v1.15 Stable
 
+This README is available in <a href="https://github.com/ShiftHackZ/OrderAutomizer/blob/master/api/README_en.md">English</a>.
+
 # Документация к API
 
 ## Методы API
