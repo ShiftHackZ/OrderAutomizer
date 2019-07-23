@@ -55,7 +55,7 @@ This README is available in <a href="https://github.com/ShiftHackZ/OrderAutomize
  
  **Требования:** не допускаются кириллические символы.
 
-7. /msg_messg
+### 7. /msg_messg
 
  **Описание**: содержит строку с телом сообщения, которое отображается при установке значение **lock** в методе **/access**.
  
