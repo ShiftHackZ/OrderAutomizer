@@ -1,6 +1,8 @@
 # Order Automizer
 ###### v1.15 Stable
 
+Этот REAME файл доступен на <a href="https://github.com/ShiftHackZ/OrderAutomizer/blob/master/README.md">Русском</a>
+
 ## Description
 This application allows you to automate the process of formation of documents for the order, when there are many suppliers offering various products.
 
