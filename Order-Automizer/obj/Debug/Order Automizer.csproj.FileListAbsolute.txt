@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\bin\Debug\Order_Automizer.exe.config
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\bin\Debug\Order_Automizer.exe
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\bin\Debug\Order_Automizer.pdb
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order Automizer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Interop.otkloadr.dll
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order Automizer.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.frmMain.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.frmAbout.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.frmEditor.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.frmRemoteMessage.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.frmEditorPassword.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.frmStats.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.Properties.Resources.resources
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order Automizer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order Automizer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.exe
+C:\Users\User\Desktop\SMS-UK-oldnet\Order-Automizer\obj\Debug\Order_Automizer.pdb
+C:\DEV\OrderAutomizer\Order-Automizer\bin\Debug\Order_Automizer.exe.config
+C:\DEV\OrderAutomizer\Order-Automizer\bin\Debug\Order_Automizer.exe
+C:\DEV\OrderAutomizer\Order-Automizer\bin\Debug\Order_Automizer.pdb
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order Automizer.csprojAssemblyReference.cache
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Interop.otkloadr.dll
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order Automizer.csproj.ResolveComReference.cache
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.frmMain.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.frmAbout.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.frmEditor.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.frmRemoteMessage.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.frmEditorPassword.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.frmStats.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.Properties.Resources.resources
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order Automizer.csproj.GenerateResource.cache
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order Automizer.csproj.CoreCompileInputs.cache
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.exe
+C:\DEV\OrderAutomizer\Order-Automizer\obj\Debug\Order_Automizer.pdb
