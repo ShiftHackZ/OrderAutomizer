@@ -6,7 +6,7 @@
 ## Description
 This application allows you to automate the process of formation of documents for the order, when there are many suppliers offering various products.
 
-## История
+## History
 
 The application was created at the end of 2017, for the tender department of the enterprise for the sale of medical goods, in order to simplify the process of classifying items for suppliers, with the ability to quickly select the necessary goods of a certain quantity, then export it to the MS Excel document.
 
@@ -19,7 +19,7 @@ In 2018, it became necessary to avoid manual editing of database files, as well 
 - The database is organized in a file form.
 - Sorting products by vendors.
 - Displaying the full name of the item with the input of quantity.
-- Editiong the contents of a table document before export.
+- Editing the contents of a table document before export.
 - Built-in database editor of suppliers and products.
 - Setting a password for the database editor (server side).
 - Export of the generated document to MS Excel.
