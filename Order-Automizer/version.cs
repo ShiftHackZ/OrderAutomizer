@@ -10,7 +10,7 @@ namespace Order_Automizer
     class Version
     {
         private static String VERSION = "1.15";
-        private static String URL = "https://api.moroz.cc/orderautomator/";
+        //private static String URL = "https://api.moroz.cc/orderautomator/";
 
         public string GetVersion() { return VERSION; }
 
@@ -19,7 +19,7 @@ namespace Order_Automizer
             try
             {
                 WebClient client = new WebClient();
-                string actual = client.DownloadString(URL + "version");
+                string actual = client.DownloadString(Constants.getApiUrl() + "version");
                 actual = actual.Replace(".", String.Empty);
 
                 if (Convert.ToInt32(actual) > Convert.ToInt32(VERSION.Replace(".", String.Empty)))
@@ -27,7 +27,7 @@ namespace Order_Automizer
                     DialogResult dialogResult = MessageBox.Show("Доступна новая версия программы, вы хотите скачать новую версию?", "SMS-UK | Доступно обновление", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
                     if (dialogResult == DialogResult.Yes)
                     {
-                        System.Diagnostics.Process.Start(client.DownloadString(URL + "latest").Trim());
+                        System.Diagnostics.Process.Start(client.DownloadString(Constants.getApiUrl() + "latest").Trim());
                     }
                 }
                 else
@@ -47,14 +47,14 @@ namespace Order_Automizer
             try
             {
                 WebClient client = new WebClient();
-                string actual = client.DownloadString(URL + "version");
+                string actual = client.DownloadString(Constants.getApiUrl() + "version");
                 actual = actual.Replace(".", String.Empty);
                 if (Convert.ToInt32(actual) > Convert.ToInt32(VERSION.Replace(".", String.Empty)))
                 {
                     DialogResult dialogResult = MessageBox.Show("Доступна новая версия программы, вы хотите скачать новую версию?", "Order Automizer | Доступно обновление", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
                     if (dialogResult == DialogResult.Yes)
                     {
-                        System.Diagnostics.Process.Start(client.DownloadString(URL + "latest").Trim());
+                        System.Diagnostics.Process.Start(client.DownloadString(Constants.getApiUrl() + "latest").Trim());
                     }
                 }
             }

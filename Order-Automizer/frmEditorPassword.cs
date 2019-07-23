@@ -14,7 +14,6 @@ namespace Order_Automizer
 {
     public partial class frmEditorPassword : Form
     {
-        private static String URL = "https://api.moroz.cc/orderautomator/";
         public frmEditorPassword()
         {
             InitializeComponent();
@@ -53,7 +52,7 @@ namespace Order_Automizer
                 this.Text = hash1;
 
                 WebClient client = new WebClient();
-                hash2 = client.DownloadString(URL + "editor_pass_hash");
+                hash2 = client.DownloadString(Constants.getApiUrl() + "editor_pass_hash");
                 hash2 = hash2.Trim();
 
 

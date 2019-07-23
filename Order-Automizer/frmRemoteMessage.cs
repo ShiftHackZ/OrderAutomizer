@@ -12,8 +12,6 @@ namespace Order_Automizer
 {
     public partial class frmRemoteMessage : Form
     {
-        private static String URL = "https://api.moroz.cc/orderautomator/";
-
         public frmRemoteMessage()
         {
             InitializeComponent();
@@ -26,8 +24,8 @@ namespace Order_Automizer
             try
             {
                 WebClient client = new WebClient();
-                title = client.DownloadString(URL + "msg_title");
-                messg = client.DownloadString(URL + "msg_messg");
+                title = client.DownloadString(Constants.getApiUrl() + "msg_title");
+                messg = client.DownloadString(Constants.getApiUrl() + "msg_messg");
             }
             catch (Exception ex)
             {

@@ -15,7 +15,6 @@ namespace Order_Automizer
 {
     public partial class frmMain : Form
     {
-        private static String URL = "https://api.moroz.cc/orderautomator/";
         public frmMain()
         {
             InitializeComponent();
@@ -120,7 +119,7 @@ namespace Order_Automizer
             try
             {
                 WebClient client = new WebClient();
-                string access = client.DownloadString(URL + "access");
+                string access = client.DownloadString(Constants.getApiUrl() + "access");
                 if (access.Trim() == "lock")
                 {
                     frmRemoteMessage frm = new frmRemoteMessage();
@@ -299,7 +298,7 @@ namespace Order_Automizer
             try
             {
                 WebClient client = new WebClient();
-                string access = client.DownloadString(URL + "editor_pass_enable");
+                string access = client.DownloadString(Constants.getApiUrl() + "editor_pass_enable");
                 if (access.Trim() == "0")
                 {
                     frmEditor frm = new frmEditor();
