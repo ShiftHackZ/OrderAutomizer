@@ -1,6 +1,8 @@
 # Order Automizer
 ###### v1.15 Stable
 
+This README is available in <a href="https://github.com/ShiftHackZ/OrderAutomizer/blob/master/README_en.md">English</a>.
+
 ## Описание
 Это приложение позволяет автоматизировать процесс формирования документов для заказа, когда есть множество поставщиков, предлагающих различные товарные позиции.
 
