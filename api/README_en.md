@@ -22,16 +22,16 @@
  **Available values**: allow, lock
  
  **Description**:
- - if the value is set to ** lock **, then at launch the application will display a dialog box with a header and a message, which are obtained from the methods ** / msg_title ** and ** / msg_messg **.
- - if set to ** allow ** or any other, the application runs in normal mode.
+ - if the value is set to **lock**, then at launch the application will display a dialog box with a header and a message, which are obtained from the methods **/msg_title** and **/msg_messg**.
+ - if set to **allow** or any other, the application runs in normal mode.
 
 ### 2. /editor_pass_enable
 
  **Available values**: 0, 1
  
  **Description**:
- - if the value is set to ** 1 ** then the dialog box with a password prompt will appear, while opening editor.
- - if the value is set to ** 0 ** the editor is started in the normal mode.
+ - if the value is set to **1** then the dialog box with a password prompt will appear, while opening editor.
+ - if the value is set to **0** the editor is started in the normal mode.
 
 ### 3. /editor_pass_hash
 
@@ -51,13 +51,13 @@
 
 ### 6. /msg_title
 
- **Description**: contains a string with the message header, which is displayed when setting the ** lock ** value in the ** / access ** method.
+ **Description**: contains a string with the message header, which is displayed when setting the **lock** value in the **/access** method.
  
  **Requirements:** cyrillic characters are not allowed.
 
 ### 7. /msg_messg
 
- **Description**: contains a string with the message body, which is displayed when setting the ** lock ** value in the ** / access ** method.
+ **Description**: contains a string with the message body, which is displayed when setting the **lock** value in the **/access** method.
  
  **Requirements:** cyrillic characters are not allowed.
 
